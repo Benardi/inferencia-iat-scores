@@ -166,11 +166,4 @@ Positive means bias towards arts / against Math.
 
 ### Conclusão
 
-Em média, as mulheres que participaram do experimento tiveram uma associação implícita (medida pelo IAT) com a matemática **negativa** e **média** (média 0.2854858, desv. padrão 0.5223609, N = 163). Homens tiveram uma associação **negativa** com a matemática, portanto **menor** que a das mulheres (média 0.2227761 , desv. padrão 0.5551954, N = 45). Houve portanto uma **pequena** diferença entre homens e mulheres (diferença das médias -0.06270964, 95% CI [-0.240690690969588, 0.121799518421087]). A partir desta amostra, estimamos que...
---- 
-*Exemplos de possíveis conclusões para completar*
-
-  * mulheres têm uma associação negativa consideravelmente mais forte, com uma diferença que provavelmente está entre 0.6 e 1.0 ponto na escala IAT, o suficiente para diferenciar uma associação neutra de uma muito forte contra a matemática.
-  * mulheres têm uma associação negativa mais forte, porém não é claro se essa diferença é grande, moderada ou pequena. É necessário coletar mais dados para determinar se a diferença é relevante ou negligenciável. 
-  * mulheres podem ter um associação negativa forte, pode não haver diferença entre sexos ou homens podem ter atitudes negativas um pouco mais fortes ou moderadamente mais fortes. 
-  * pode não haver uma diferença entre sexos, ou se ela existir, ela provavelmente é pequena em qualquer das direções. 
+Em média, as mulheres que participaram do experimento tiveram uma associação implícita (medida pelo IAT) com a matemática **negativa** e **média** (média 0.2854858, desv. padrão 0.5223609, N = 163). Homens tiveram uma associação **negativa** com a matemática **menor** que a das mulheres (média 0.2227761 , desv. padrão 0.5551954, N = 45). Houve portanto uma **pequena** diferença entre homens e mulheres (diferença das médias -0.06270964, 95% CI [-0.240690690969588, 0.121799518421087]). É preciso notar que o intervalo de confiança da diferença inclui o 0, por essa razão não foi possível estabelecer uma diferença estatisticamente significativa. A partir desta amostra estimamos que pode não haver uma diferença entre sexos, ou se ela existir, ela provavelmente é pequena em qualquer das direções. 
